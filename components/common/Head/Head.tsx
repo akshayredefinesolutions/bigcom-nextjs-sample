@@ -24,11 +24,11 @@ const Head: FC = () => {
           rel="stylesheet"
         />
 
-        <link
+        {/*<link
           rel="stylesheet"
           type="text/css"
           href="https://unbxd.s3.amazonaws.com/unbxd_autosuggest_sleekhair.css"
-        />
+        />*/}
 
         <link
           rel="stylesheet"
